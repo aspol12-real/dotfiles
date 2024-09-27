@@ -1,4 +1,7 @@
+camp.nook.nookdesktop &
 xrandr -s 1366x768 &
 picom &
 nitrogen --restore &
+conky &
+./statusbar &
 exec dwm
